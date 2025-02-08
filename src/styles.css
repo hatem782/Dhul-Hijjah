@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("./assets/fonts/OpenSans-Variable.ttf");
+}
+
+@font-face {
+  font-family: "Marko One";
+  src: url("./assets/fonts/MarkoOne-Regular.ttf");
+}
