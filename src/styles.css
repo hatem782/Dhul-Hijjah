@@ -5,10 +5,10 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url("./assets/fonts/OpenSans-Variable.ttf");
+  src: url("/assets/fonts/OpenSans-Variable.ttf");
 }
 
 @font-face {
   font-family: "Marko One";
-  src: url("./assets/fonts/MarkoOne-Regular.ttf");
+  src: url("/assets/fonts/MarkoOne-Regular.ttf");
 }

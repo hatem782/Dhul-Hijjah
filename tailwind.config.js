@@ -6,9 +6,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#1E40AF", // Example custom color (blue-800)
-        secondary: "#9333EA", // Example custom color (purple-600)
-        accent: "#F59E0B", // Example custom color (amber-500)
+        primary: "#4354a4", // Example custom color (blue-800)
+        primaryDark: "#111633", // Example custom color (blue-900)
+        secondary: "#595959", // Example custom color (purple-600)
+        secondaryLight: "#dfdfd5", // Example custom color (purple-200)
+        bg: "#e1e1d8", // Example custom color (gray-100)
       },
       fontFamily: {
         sans: ["Open Sans", "sans-serif"], // Open Sans as the default sans-serif font
