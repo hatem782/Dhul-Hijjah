@@ -10,7 +10,7 @@ module.exports = {
         primaryDark: "#111633", // Example custom color (blue-900)
         secondary: "#595959", // Example custom color (purple-600)
         secondaryLight: "#dfdfd5", // Example custom color (purple-200)
-        bg: "#e1e1d8", // Example custom color (gray-100)
+        bg: "#ffffff", // Example custom color (gray-100)
       },
       fontFamily: {
         sans: ["Open Sans", "sans-serif"], // Open Sans as the default sans-serif font
